@@ -1,0 +1,4 @@
+add_subdirectory(dci)
+add_subdirectory(deepin-os-release)
+add_subdirectory(qdbusxml2cpp)
+add_subdirectory(settings)

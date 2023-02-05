@@ -1,0 +1,53 @@
+<RCC>
+    <qresource prefix="/icons/deepin/builtin">
+        <file>dark/texts/titlebar_shadow_20px.svg</file>
+        <file>light/texts/titlebar_shadow_20px.svg</file>
+        <file>dark/icons/water_front_383px.svg</file>
+        <file>dark/icons/water_back_383px.svg</file>
+        <file>light/icons/water_back_383px.svg</file>
+        <file>light/icons/water_front_383px.svg</file>
+        <file>light/icons/printer_colorselect_18px.svg</file>
+        <file>light/icons/printer_landscape_40px.svg</file>
+        <file>light/icons/printer_portrait_40px.svg</file>
+        <file>dark/icons/printer_colorselect_18px.svg</file>
+        <file>dark/icons/printer_landscape_40px.svg</file>
+        <file>dark/icons/printer_portrait_40px.svg</file>
+        <file>light/icons/printer_final_12px.svg</file>
+        <file>light/icons/printer_original_12px.svg</file>
+        <file>dark/icons/printer_final_12px.svg</file>
+        <file>dark/icons/printer_original_12px.svg</file>
+        <file>dark/icons/search_action_36px.svg</file>
+        <file>light/icons/search_action_36px.svg</file>
+        <file>dark/icons/dorpper_normal_32px.svg</file>
+        <file>light/icons/dorpper_normal_32px.svg</file>
+        <file>dark/icons/titlebar_more_50px.svg</file>
+        <file>light/icons/titlebar_more_50px.svg</file>
+        <file>dark/actions/splitscreen_left_36px.svg</file>
+        <file>dark/actions/splitscreen_right_36px.svg</file>
+        <file>dark/actions/splitscreen_showmaximize_36px.svg</file>
+        <file>dark/actions/splitscreen_shownormal_36px.svg</file>
+        <file>light/actions/print_previewscale_18px.svg</file>
+        <file>light/actions/printer_dropup_14px.svg</file>
+        <file>light/actions/printer_dropdown_14px.svg</file>
+        <file>light/actions/splitscreen_left_36px.svg</file>
+        <file>light/actions/splitscreen_right_36px.svg</file>
+        <file>light/actions/splitscreen_showmaximize_36px.svg</file>
+        <file>light/actions/splitscreen_shownormal_36px.svg</file>
+        <file>light/actions/printer_lrtb_1_24px.svg</file>
+        <file>light/actions/printer_lrtb_2_24px.svg</file>
+        <file>light/actions/printer_lrtb_3_24px.svg</file>
+        <file>light/actions/printer_lrtb_4_24px.svg</file>
+        <file>light/actions/printer_lrtb_5_24px.svg</file>
+        <file>dark/actions/print_previewscale_18px.svg</file>
+        <file>dark/actions/printer_dropdown_14px.svg</file>
+        <file>dark/actions/printer_dropup_14px.svg</file>
+        <file>dark/actions/printer_lrtb_1_24px.svg</file>
+        <file>dark/actions/printer_lrtb_2_24px.svg</file>
+        <file>dark/actions/printer_lrtb_3_24px.svg</file>
+        <file>dark/actions/printer_lrtb_4_24px.svg</file>
+        <file>dark/actions/printer_lrtb_5_24px.svg</file>
+    </qresource>
+    <qresource prefix="/dsg/built-in-icons">
+        <file alias="window_menu.dci">bloom/window_menu.dci</file>
+    </qresource>
+</RCC>

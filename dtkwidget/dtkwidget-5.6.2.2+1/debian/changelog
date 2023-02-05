@@ -1,0 +1,53 @@
+dtkwidget (5.6.2.2+1-1) unstable; urgency=medium
+
+  * update
+
+ -- Deepin Packages Builder <packages@deepin.com>  Thu, 01 Dec 2022 22:43:55 +0800
+
+dtkwidget (5.6.2.2) unstable; urgency=medium
+
+  * Release 5.6.2.2
+
+ -- Deepin Packages Builder <packages@deepin.com>  Wed, 30 Nov 2022 10:41:14 +0800
+
+dtkwidget (5.6.1) unstable; urgency=medium
+
+  * snipe release 5.6.1
+
+ -- Deepin Packages Builder <packages@deepin.com>  Mon, 11 Jul 2022 17:18:51 +0800
+
+dtkwidget (5.6.0.1) unstable; urgency=medium
+
+  * develop/snipe 5.6.0.1
+
+ -- Deepin Packages Builder <packages@deepin.com>  Fri, 01 Jul 2022 12:03:04 +0800
+
+dtkwidget (5.5.42.1) unstable; urgency=medium
+
+  * Release 5.5.42.1
+
+ -- Deepin Packages Builder <packages@deepin.com>  Tue, 14 Jun 2022 10:11:06 +0800
+
+dtkwidget (5.0.0) unstable; urgency=medium
+
+  * Release 5.0.0
+
+ -- Deepin Packages Builder <packages@deepin.com>  Tue, 03 Sep 2019 10:50:03 +0800
+
+dtkwidget (2.0.7.2) unstable; urgency=medium
+
+  * Release 2.0.7.2
+
+ -- Iceyer <me@iceyer.net>  Wed, 02 May 2018 09:56:59 +0800
+
+dtkwidget (2.0.0-0) unstable; urgency=medium
+
+  * Release 2.0.0.
+
+ -- Iceyer <me@iceyer.net>  Tue, 22 Aug 2017 19:38:45 +0800
+
+dtkwidget (0.3.3-1) unstable; urgency=low
+
+  * Initial release. Merge from deepin-tool-kit.
+
+ -- TagBuilder <tagbuilder@deepin.com>  Wed, 26 Jul 2017 17:10:12 +0800

@@ -1,0 +1,11 @@
+dtkcommon (5.5.23-1) unstable; urgency=medium
+
+  * update
+
+ -- Deepin Packages Builder <packages@deepin.com>  Thu, 16 Jun 2022 10:48:14 +0800
+
+dtkcommon (0.0.1) unstable; urgency=medium
+
+  * ./debian
+
+ -- Deepin Package Builder <packages@linuxdeepin.com>  Mon, 25 Jan 2021 16:01:40 +0800
