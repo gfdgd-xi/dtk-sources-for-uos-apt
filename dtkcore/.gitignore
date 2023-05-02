@@ -1,0 +1,42 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+build*/
+*.pro.user*
+*.DS_Store
+
+# executeable files
+*.qm
+
+src/DtkCores
+src/dtkcore_config.h
+cmake/DtkCore/DtkCoreConfig.cmake
+src/qt_lib_d*.pri
+
+bin/
+.qmake*
+Makefile
+
+cmake/DtkCore*
+.cache
+DtkCoreConfig.cmake
+dtkcore.pc
+qt_lib_dtkcore.pri
+dtkcore_config.h
+CMakeLists.txt.user
+
+#tools
+.vscode
+.idea

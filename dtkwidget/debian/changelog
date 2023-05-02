@@ -1,0 +1,100 @@
+dtkwidget (5.6.10) unstable; urgency=medium
+
+  * Release 5.6.10
+  * FIX #364 #373 #389 #390 #403 #408
+  * FIX Build error for Qt 5.15~6.1
+  * FIX DFloatingButton can't display dci icon
+
+ -- Deepin Packages Builder <packages@deepin.com>  Mon, 17 Apr 2023 17:14:10 +0800
+
+dtkwidget (5.6.9) unstable; urgency=medium
+
+  * Release 5.6.9
+
+ -- Deepin Packages Builder <packages@deepin.com>  Mon, 03 Apr 2023 10:13:53 +0800
+
+dtkwidget (5.6.8) unstable; urgency=medium
+
+  * Release 5.6.8
+
+ -- Deepin Packages Builder <packages@deepin.com>  Wed, 22 Feb 2023 14:21:55 +0800
+
+dtkwidget (5.6.7) unstable; urgency=medium
+
+  * Release 5.6.7
+
+ -- Deepin Packages Builder <packages@deepin.com>  Fri, 17 Feb 2023 13:13:24 +0800
+
+dtkwidget (5.6.6) unstable; urgency=medium
+
+  * Release 5.6.6 update with broken dtkcore
+  * Update doc, for danchors
+  * fix the broken case if open the popup window second time
+
+ -- Deepin Packages Builder <packages@deepin.com>  Thu, 06 Feb 2023 17:22:10 +0800
+
+dtkwidget (5.6.5) unstable; urgency=medium
+
+  * Release 5.6.5
+
+ -- Deepin Packages Builder <packages@deepin.com>  Thu, 02 Feb 2023 14:15:00 +0800
+
+dtkwidget (5.6.4) unstable; urgency=medium
+
+  * Release 5.6.4
+
+ -- Deepin Packages Builder <packages@deepin.com>  Tue, 10 Jan 2023 10:36:48 +0800
+
+dtkwidget (5.6.3) unstable; urgency=medium
+
+  * Release 5.6.3
+
+ -- Deepin Packages Builder <packages@deepin.com>  Mon, 12 Dec 2022 15:26:28 +0800
+
+dtkwidget (5.6.2.2) unstable; urgency=medium
+
+  * Release 5.6.2.2
+
+ -- Deepin Packages Builder <packages@deepin.com>  Wed, 30 Nov 2022 10:41:14 +0800
+
+dtkwidget (5.6.1) unstable; urgency=medium
+
+  * snipe release 5.6.1
+
+ -- Deepin Packages Builder <packages@deepin.com>  Mon, 11 Jul 2022 17:18:51 +0800
+
+dtkwidget (5.6.0.1) unstable; urgency=medium
+
+  * develop/snipe 5.6.0.1
+
+ -- Deepin Packages Builder <packages@deepin.com>  Fri, 01 Jul 2022 12:03:04 +0800
+
+dtkwidget (5.5.42.1) unstable; urgency=medium
+
+  * Release 5.5.42.1
+
+ -- Deepin Packages Builder <packages@deepin.com>  Tue, 14 Jun 2022 10:11:06 +0800
+
+dtkwidget (5.0.0) unstable; urgency=medium
+
+  * Release 5.0.0
+
+ -- Deepin Packages Builder <packages@deepin.com>  Tue, 03 Sep 2019 10:50:03 +0800
+
+dtkwidget (2.0.7.2) unstable; urgency=medium
+
+  * Release 2.0.7.2
+
+ -- Iceyer <me@iceyer.net>  Wed, 02 May 2018 09:56:59 +0800
+
+dtkwidget (2.0.0-0) unstable; urgency=medium
+
+  * Release 2.0.0.
+
+ -- Iceyer <me@iceyer.net>  Tue, 22 Aug 2017 19:38:45 +0800
+
+dtkwidget (0.3.3-1) unstable; urgency=low
+
+  * Initial release. Merge from deepin-tool-kit.
+
+ -- TagBuilder <tagbuilder@deepin.com>  Wed, 26 Jul 2017 17:10:12 +0800
